@@ -1,0 +1,22 @@
+body{
+    text-align: center;
+   
+}
+#myCarousel img{
+    height: 550px;
+    width: 500px;
+}
+p{
+    font-size: 25px;
+    color: #100696;
+    background-color: #78eb7a;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-color: black;
+    border-bottom-style: solid;
+    border-radius: 20px;
+    border-bottom-width: medium;
+}
+.container{
+     background-color:linear-gradient( #8fb5f20 0%, #45f763 100%);
+}
